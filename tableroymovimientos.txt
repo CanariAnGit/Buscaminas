@@ -1,0 +1,158 @@
+Jugadores: 
+Angel#1234
+Andres#1234
+0 1 * 2 1 0 1 * 1 1 1 3 * * 2 0 
+0 1 3 * 2 0 1 1 1 1 * 4 * * 2 0 
+0 0 3 * 3 0 1 1 1 1 1 3 * 3 2 1 
+1 1 3 * 2 0 1 * 1 1 2 3 2 1 1 * 
+2 * 3 2 2 1 2 1 1 1 * * 2 0 2 2 
+* 3 * 1 2 * 3 1 1 1 3 * 3 1 2 * 
+1 3 2 3 3 * 3 * 1 0 1 2 * 1 2 * 
+1 3 * 4 * 2 2 1 1 0 0 1 2 2 2 1 
+* 3 * * 2 1 0 1 2 2 1 0 1 * 1 0 
+2 3 2 2 1 0 0 1 * * 1 0 1 2 2 1 
+* 2 1 1 0 1 1 2 2 2 2 1 1 1 * 1 
+2 4 * 2 0 1 * 1 0 0 1 * 1 1 1 1 
+1 * * 2 1 2 2 2 1 1 2 2 3 2 3 2 
+1 2 3 2 3 * 3 2 * 2 2 * 2 * * * 
+0 0 1 * 3 * 3 * 3 * 2 1 2 3 * 3 
+0 0 1 1 2 1 2 1 2 1 1 0 0 1 1 1 
+
+Angel 0 0
+Andres 0 2
+Andres 0 3
+Angel 1 3
+Angel 2 3
+Angel 3 3
+Angel 3 4
+Andres 2 4
+Angel 1 4
+Andres 0 4
+Angel 0 5
+Andres 0 7
+Andres 1 7
+Angel 0 8
+Andres 1 8
+Angel 0 9
+Andres 1 9
+Angel 0 10
+Andres 2 9
+Angel 2 8
+Andres 2 7
+Angel 3 7
+Angel 3 8
+Andres 4 8
+Angel 3 9
+Andres 4 9
+Angel 3 10
+Andres 2 10
+Angel 1 10
+Angel 1 11
+Andres 0 11
+Angel 0 12
+Angel 1 12
+Angel 0 13
+Angel 1 13
+Angel 0 14
+Andres 1 14
+Angel 0 15
+Andres 2 13
+Angel 2 12
+Angel 2 11
+Andres 3 11
+Angel 3 12
+Andres 4 12
+Angel 3 13
+Andres 4 14
+Angel 4 13
+Andres 3 15
+Andres 4 15
+Angel 5 15
+Angel 6 14
+Andres 6 13
+Angel 6 12
+Angel 6 11
+Andres 5 11
+Andres 4 11
+Andres 4 10
+Andres 5 10
+Angel 6 10
+Andres 5 9
+Angel 6 9
+Andres 5 7
+Angel 6 7
+Angel 4 7
+Andres 5 6
+Angel 6 6
+Andres 5 5
+Andres 6 5
+Andres 7 6
+Angel 5 4
+Andres 5 3
+Angel 4 3
+Andres 5 2
+Andres 4 2
+Angel 4 1
+Angel 4 0
+Andres 5 0
+Andres 6 1
+Angel 6 0
+Andres 7 0
+Angel 8 1
+Andres 7 1
+Angel 6 2
+Andres 7 2
+Andres 5 1
+Angel 6 3
+Andres 6 4
+Angel 8 4
+Andres 7 3
+Angel 8 3
+Angel 8 2
+Angel 7 4
+Angel 7 5
+Andres 8 5
+Angel 8 6
+Andres 8 0
+Andres 9 0
+Angel 9 1
+Andres 9 2
+Angel 10 2
+Andres 10 1
+Angel 10 0
+Angel 11 0
+Andres 11 1
+Angel 11 2
+Angel 12 2
+Angel 12 1
+Angel 12 0
+Andres 13 0
+Angel 13 1
+Andres 13 2
+Angel 14 1
+Andres 13 3
+Angel 14 3
+Angel 15 3
+Andres 15 4
+Angel 14 4
+Andres 13 4
+Angel 13 5
+Angel 14 5
+Angel 15 5
+Andres 15 6
+Angel 14 6
+Andres 13 6
+Angel 12 6
+Andres 11 6
+Andres 9 8
+Andres 10 8
+Angel 9 9
+Angel 10 9
+Andres 11 8
+Angel 13 7
+Andres 13 8
+Andres 14 7
+Andres 14 8
+Angel 15 7
+Andres 15 8
+Angel 14 9
